@@ -97,6 +97,7 @@ Modifique cada pedaço das strings substituindo pelos dados pedidos dentro das c
 ### Executando a página
  - Clique com o botão direito do arquivo “Tarefas.xhtml” que está localizado no seguinte diretório da pasta.
 ![enter image description here](https://github.com/Migu3l-55/images/blob/ab0fc2942045f9f12dc3c7850a17a16f15363b29/Lista_de_Tarefas/9.Tarefasxhtml.png)
+
 Selecione a opção “Run as” no painel que aparecer e depois clique em “1 Run on Server”.
  - Selecione “Tomcat v9.0 Server at localhost” e então em “Finish”.
  - O seu console irá exibir linhas que parecem alertas de erro, mas se o seu navegador
