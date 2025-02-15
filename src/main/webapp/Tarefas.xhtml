@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:f="http://java.sun.com/jsf/core">
+    <h:head>
+        <title>TAREFAS</title>
+        <link rel="stylesheet" type="text/css" href="style.css" />
+    </h:head>
+    <h:body>
+    	<div id="div-painel">
+	    	<h:form>
+	    		<h:outputLabel value="TITULO*: " for="tarefa_titulo" />
+	    		<h:inputText id="tarefa_titulo" value="#{tarefaBean.titulo}" />
+	    		<br/><br/>
+	    		
+	    		<h:outputLabel value="DESCRIÇÃO: " for="tarefa_descricao" />
+	    		<br/>
+	    		<h:inputTextarea rows="10" cols="40" value="#{tarefaBean.descricao}" />
+	    		<br/><br/>
+	
+	    		<h:outputLabel value="RESPONSAVEL*: " for="tarefa_responsavel" />
+	    		<h:inputText value="#{tarefaBean.responsavel}" />
+	    		<br/><br/>
+	    		
+	    		<h:outputLabel value="PRIORIDADE: " for="tarefa_prioridade" />
+	    		<h:selectOneMenu id="tarefa_prioridade"  value="#{tarefaBean.prioridade}" >
+	    			<f:selectItem itemValue="baixa" itemLabel="Baixa" />
+	    			<f:selectItem itemValue="media" itemLabel="Média" />
+	    			<f:selectItem itemValue="alta" itemLabel="Alta" />
+	    		</h:selectOneMenu>
+	    		<br/><br/>
+	    		
+	    		<h:outputLabel value="DATA FINAL [AAAA-MM-DD]*: " for="tarefa_deadline" />
+	    		<br/>
+	    		<h:inputText id="tarefa_deadline" value="#{tarefaBean.deadline}" />
+	    		<br/><br/>
+	    		<hr/>
+	    		<h:commandButton class=".button" value="ADD" actionListener="#{tarefaBean.adicionar_tarefa()}" />
+	    		<h:commandButton class=".button" value="Lista" action="Listagem" />
+	    	</h:form>
+    	</div>
+    </h:body>
+</html>

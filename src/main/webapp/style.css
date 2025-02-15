@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body {
+	background-color: whitesmoke;
+}
+
+#div-painel {
+	background-color: white;
+	margin: 50px;
+	padding: 26px;
+	min-width: 320px;
+	border: 1px solid lightgray;
+	border-radius: 12px;
+	box-shadow: inset -4px -4px 10px grey;
+}
+
+td, th {
+	text-align: center;
+} 
