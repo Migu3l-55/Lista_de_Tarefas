@@ -1,3 +1,4 @@
+
 # Lista_de_Tarefas usando JSF 2.2 e PostgreSQL
 Atividade requisitada pelo GUPO ESIG / Lista de tarefas.
 
@@ -94,6 +95,12 @@ Modifique cada pedaço das strings substituindo pelos dados pedidos dentro das c
 
  - ***PASSWORD***: coloque a senha usada para acessar o seu banco de dados.
    ** Você não precisa criar uma tabela Tarefa antes pois os métodos a cria assim que são executados.
+
+```markdown
+[!NOTE] Se a sua página tiver com um simbolo vermelho indicando erro, clique com o botão direito sobre ela e selecione a aba "Properties" ou propriedades da pasta. \
+após o painel de propriedades abrir, selecione no menu esquerdo a opção "Java Facets" e troque a versão do tipo "Java" do painel de seleção para 21 (essa é a versão java que o projeto foi desenvolvido).
+```
+
 ### Executando a página
  - Clique com o botão direito do arquivo “Tarefas.xhtml” que está localizado no seguinte diretório da pasta. \
 ![enter image description here](https://github.com/Migu3l-55/images/blob/ab0fc2942045f9f12dc3c7850a17a16f15363b29/Lista_de_Tarefas/9.Tarefasxhtml.png)
