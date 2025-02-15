@@ -45,4 +45,11 @@ método *listarTarefasPorResponsavel()* que não é usada no jsf, mas funciona a
 1. Baixe o instalador da IDE Eclipse voltada para o desenvolvimento WEB pelo seguinte
 link (https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2024-12/R/eclipse-inst-jre-win64.exe&mirror_id=1135)
 2. Execute o Instalador e selecione a opção abaixo para instalar a versão EE.
-3. ![enter image description here]([https://github.com/Migu3l-55/images/blob/ab0fc2942045f9f12dc3c7850a17a16f15363b29/Lista_de_Tarefas/1.%20Eclipse%20EE.png](https://github.com/Migu3l-55/images/blob/main/Lista_de_Tarefas/1.%20Eclipse%20EE.png?raw=true))
+![enter image description here](https://github.com/Migu3l-55/images/blob/ab0fc2942045f9f12dc3c7850a17a16f15363b29/Lista_de_Tarefas/1.%20Eclipse%20EE.png)
+3. Selecione o diretório padrão para o Eclipse-Workspace quando questionado.
+4. Feche a aba de Boas-Vindas do Eclipse. clique no ‘x’ proximo da aba que se encontra
+na parte superiora esquerda da sua tela:![enter image description here](https://github.com/Migu3l-55/images/blob/ab0fc2942045f9f12dc3c7850a17a16f15363b29/Lista_de_Tarefas/2.%20Eclipse%20welcome.png)
+### Instalando o Tomcat
+1. baixe o Apache Tomcat 9.0.99
+(https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.99/bin/apache-tomcat-9.0.99-windows-x64.zi
+p) e extraia a pasta apache-tomcat-9.0.99 para o diretorio do seu disco local.
