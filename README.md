@@ -3,6 +3,7 @@ Atividade requisitada pelo GUPO ESIG / Lista de tarefas.
 
 ## Sumário
 **Tecnologias usadas**
+
 **O que foi feito**
 - Arquivos Java
 - Arquivos do JSF
