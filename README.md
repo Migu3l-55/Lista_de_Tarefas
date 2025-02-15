@@ -14,4 +14,15 @@ Atividade requisitada pelo GUPO ESIG / Lista de tarefas.
     _Executando a página_ 
 - **Usando o sistema** \
     _Campos de entrada_ \
-    _Exibir tabela de tarefas_ 
+    _Exibir tabela de tarefas_
+
+  ## Tecnologias Usadas \
+java - v21.0.1 \
+JSF (impl e api) - v2.2.8 \ 
+PostgreSQL - v17.2 \
+Apache Tomcat - v9.0.99 \
+Eclipse (IDE) EE Edition - v4.34.0 \
+PostgreSQL JDBC - v42.7.5 \
+Javax Annotation api - v1.2 \
+
+
