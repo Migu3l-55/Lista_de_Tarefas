@@ -18,11 +18,11 @@ Atividade requisitada pelo GUPO ESIG / Lista de tarefas.
 
   ## Tecnologias Usadas
 java - v21.0.1 \
-JSF (impl e api) - v2.2.8 \ 
+JSF (impl e api) - v2.2.8 (jsf-impl: https://repo1.maven.org/maven2/com/sun/faces/jsf-impl/2.2.8/jsf-impl-2.2.8.jar \ jsf-api: https://repo1.maven.org/maven2/com/sun/faces/jsf-api/2.2.8/jsf-api-2.2.8.jar)\ 
 PostgreSQL - v17.2 \
 Apache Tomcat - v9.0.99 \
 Eclipse (IDE) EE Edition - v4.34.0 \
-PostgreSQL JDBC - v42.7.5 \
-Javax Annotation api - v1.2 \
+PostgreSQL JDBC - v42.7.5 ()\
+Javax Annotation api - v1.2 (https://repo1.maven.org/maven2/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.jar)\
 
-[mylink] (https://repo1.maven.org/maven2/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.jar)
+[mylink] 
