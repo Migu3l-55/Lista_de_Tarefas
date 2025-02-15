@@ -68,12 +68,12 @@ conectado com o Eclipse
  - Baixe o.ZIP dos arquivos no diretório no Github e extraia os arquivos dentro do .ZIP para
 a raiz de uma pasta nomeada como “Lista_de_Tarefas”.
  - Com o eclipse aberto e servidor adicionado, clique na opção “File” do menu do Eclipse e
-em seguida selecione “Open Project From File System…”
+em seguida selecione “Open Project From File System…” \
 ![enter image description here](https://github.com/Migu3l-55/images/blob/ab0fc2942045f9f12dc3c7850a17a16f15363b29/Lista_de_Tarefas/5.abrir%20pasta.png)
 Clique em “Browse” e localize a pasta “Lista_de_Tarefas” nos seus Downloads ou onde
 você tenha colocado a pasta.
  - O seu explorador de Projetos do Eclipse (lateral esquerda) deve mostrar a pasta que
-você acabou de importar.
+você acabou de importar. \
 ![enter image description here](https://github.com/Migu3l-55/images/blob/ab0fc2942045f9f12dc3c7850a17a16f15363b29/Lista_de_Tarefas/6.exemplopasta.png)
 ### Adicionando o acesso ao banco de dados
  - No arquivo Java nomeado de “TarefasDAO” voce vai precisar colocar o seu link de
