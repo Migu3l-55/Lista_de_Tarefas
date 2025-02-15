@@ -53,10 +53,10 @@ na parte superiora esquerda da sua tela:![enter image description here](https://
 1. baixe o Apache Tomcat 9.0.99
 (https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.99/bin/apache-tomcat-9.0.99-windows-x64.zi
 p) e extraia a pasta apache-tomcat-9.0.99 para o diretorio do seu disco local.
-![enter image description here](https://github.com/Migu3l-55/images/blob/ab0fc2942045f9f12dc3c7850a17a16f15363b29/Lista_de_Tarefas/3.%20disco%20local.png)
+![enter image description here](https://github.com/Migu3l-55/images/blob/ab0fc2942045f9f12dc3c7850a17a16f15363b29/Lista_de_Tarefas/3.%20disco%20local.png) \
 2. Abra o eclipse e quando você fechar a aba de boas-vindas, aparecerá o seguinte painel
 no canto inferior de sua janela.
-![enter image description here](https://github.com/Migu3l-55/images/blob/ab0fc2942045f9f12dc3c7850a17a16f15363b29/Lista_de_Tarefas/4.painel%20Server.png)
+![enter image description here](https://github.com/Migu3l-55/images/blob/ab0fc2942045f9f12dc3c7850a17a16f15363b29/Lista_de_Tarefas/4.painel%20Server.png) 
 3. Selecione a aba Servers e note que não há nem um servidor configurado.
 4. Clique no link destacado em azul no painel para configurar um novo servidor.
 5. No novo painel “New Server” selecione a pasta “Apache” e dentro dela selecione a opção “Tomcat v9.0 Server.
