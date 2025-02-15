@@ -107,16 +107,41 @@ que o usuário registre a sua tarefa.
 ![enter image description here](https://github.com/Migu3l-55/images/blob/ab0fc2942045f9f12dc3c7850a17a16f15363b29/Lista_de_Tarefas/10.painel.png)
 ### Campos de entrada
 
- - TÍTULO - (obrigatório): define um título para a tarefa. Max 60
+ - **TÍTULO** - (obrigatório): define um título para a tarefa. Max 60
    caracteres;
 
- - DESCRIÇÃO - (opcional): define uma descrição curta sobre que deve ser
+ - **DESCRIÇÃO** - (opcional): define uma descrição curta sobre que deve ser
    feito. Máx. 100 caracteres;
 
- - RESPONSÁVEL - (obrigatório): define uma pessoa responsável por
+ - **RESPONSÁVEL** - (obrigatório): define uma pessoa responsável por
    executar a tarefa registrada. Máx. 80 caracteres;
 
- - PRIORIDADE - define a prioridade da tarefa. pode assumir três valores
+ - **PRIORIDADE** - define a prioridade da tarefa. pode assumir três valores
    apenas: Baixa - tarefas menos exigentes; Médias - tarefas comuns;
 
- - Alta - tarefas mais importantes, difíceis ou que consomem mais tempo.
+ - **Alta** - tarefas mais importantes, difíceis ou que consomem mais tempo.
+
+ - **DATA FINAL** - define uma data limite para que aquela tarefa seja executada.
+O campo de texto deve ser respondido da seguinte maneira:
+os quatro primeiros dígitos devem ser números;
+o quinto dígito deve ser um hífen;
+o sexto e o sétimo dígito deve ser números representando o mês;
+o oitavo dígito deve ser um hífen;
+o nono e o décimo dígito deve ser números representando o dia;
+
+ - **[Botão] ADD** - adiciona os valores dos campos de texto anterior no
+   banco de dados criando assim uma nova tarefa.
+
+ - **[Botão] Lista** - exibe uma tabela mostrando todas as tarefas
+   registradas no banco de dados.
+### Exibir tabela de tarefas
+Ao clicar no botão “Lista” da tela anterior, o usuário é levado para uma tabela que exibe as
+tarefas que ele inseriu.
+![enter image description here](https://github.com/Migu3l-55/images/blob/ab0fc2942045f9f12dc3c7850a17a16f15363b29/Lista_de_Tarefas/11.tabela.png)
+Essa tabela exibe algumas informações sobre a tarefas registradas como: 
+**ID** (valor da tarefa registrada no banco de dados), e os valores associados ao **TITULO**,
+**RESPONSÁVEL**, **PRIORIDADE**, **DATA FINAL** (ou *deadline*) e se essa tarefa **já foi
+concluída ou não**. \
+
+As ações que o usuário pode fazer nessa tela são: **remove tarefa** com o botão **REMOVER**
+e **marcar a tarefa como concluída** com o botão **CONCLUIR**
