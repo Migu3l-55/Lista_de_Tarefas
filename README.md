@@ -96,10 +96,9 @@ Modifique cada pedaço das strings substituindo pelos dados pedidos dentro das c
  - ***PASSWORD***: coloque a senha usada para acessar o seu banco de dados.
    ** Você não precisa criar uma tabela Tarefa antes pois os métodos a cria assim que são executados.
 
-```markdown
+
 [!NOTE] Se a sua página tiver com um simbolo vermelho indicando erro, clique com o botão direito sobre ela e selecione a aba "Properties" ou propriedades da pasta. \
 após o painel de propriedades abrir, selecione no menu esquerdo a opção "Java Facets" e troque a versão do tipo "Java" do painel de seleção para 21 (essa é a versão java que o projeto foi desenvolvido).
-```
 
 ### Executando a página
  - Clique com o botão direito do arquivo “Tarefas.xhtml” que está localizado no seguinte diretório da pasta. \
