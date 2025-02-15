@@ -73,7 +73,8 @@ em seguida selecione “Open Project From File System…”
 Clique em “Browse” e localize a pasta “Lista_de_Tarefas” nos seus Downloads ou onde
 você tenha colocado a pasta.
  - O seu explorador de Projetos do Eclipse (lateral esquerda) deve mostrar a pasta que
-você acabou de importar ![enter image description here](https://github.com/Migu3l-55/images/blob/ab0fc2942045f9f12dc3c7850a17a16f15363b29/Lista_de_Tarefas/6.exemplopasta.png)
+você acabou de importar.
+![enter image description here](https://github.com/Migu3l-55/images/blob/ab0fc2942045f9f12dc3c7850a17a16f15363b29/Lista_de_Tarefas/6.exemplopasta.png)
 ### Adicionando o acesso ao banco de dados
  - No arquivo Java nomeado de “TarefasDAO” voce vai precisar colocar o seu link de
 conexão PostgreSQL. Selecione o “TarefasDAO”.
@@ -96,7 +97,7 @@ Modifique cada pedaço das strings substituindo pelos dados pedidos dentro das c
 ### Executando a página
  - Clique com o botão direito do arquivo “Tarefas.xhtml” que está localizado no seguinte diretório da pasta.
 ![enter image description here](https://github.com/Migu3l-55/images/blob/ab0fc2942045f9f12dc3c7850a17a16f15363b29/Lista_de_Tarefas/9.Tarefasxhtml.png)
- - Selecione a opção “Run as” no painel que aparecer e depois clique em “1 Run on Server”.
+Selecione a opção “Run as” no painel que aparecer e depois clique em “1 Run on Server”.
  - Selecione “Tomcat v9.0 Server at localhost” e então em “Finish”.
  - O seu console irá exibir linhas que parecem alertas de erro, mas se o seu navegador
 abrir em uma página como a inferior então é um sinal de que a conexão foi estabelecida.
@@ -141,7 +142,7 @@ tarefas que ele inseriu.
 Essa tabela exibe algumas informações sobre a tarefas registradas como: 
 **ID** (valor da tarefa registrada no banco de dados), e os valores associados ao **TITULO**,
 **RESPONSÁVEL**, **PRIORIDADE**, **DATA FINAL** (ou *deadline*) e se essa tarefa **já foi
-concluída ou não**. \
+concluída ou não**. 
 
 As ações que o usuário pode fazer nessa tela são: **remove tarefa** com o botão **REMOVER**
 e **marcar a tarefa como concluída** com o botão **CONCLUIR**
