@@ -3,8 +3,8 @@ Atividade requisitada pelo GUPO ESIG / Lista de tarefas.
 
 ## Sumário
 - **Tecnologias usadas**
-- **O que foi feito** \
- - _Arquivos Java_ \
+- **O que foi feito**
+  - _Arquivos Java_ \
     _Arquivos do JSF_ 
 - **Guia de SetUp e preparação para o funcionamento** \
       _Instalando Eclipse EE Edition_ \
