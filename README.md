@@ -16,7 +16,7 @@ Atividade requisitada pelo GUPO ESIG / Lista de tarefas.
     _Campos de entrada_ \
     _Exibir tabela de tarefas_
 
-  ## Tecnologias Usadas \
+  ## Tecnologias Usadas
 java - v21.0.1 \
 JSF (impl e api) - v2.2.8 \ 
 PostgreSQL - v17.2 \
