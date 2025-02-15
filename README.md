@@ -84,19 +84,39 @@ respectivamente.
 Modifique cada pedaço das strings substituindo pelos dados pedidos dentro das chaves
 (lembre-se de remover as chaves também).
  - **URL**:
-   - *{tipo do banco}* = “postgresql” é o padrão;
-   - *{nome do usuário}* = “localhost” é o padrao, mas voce pode ter modificado; {n° porta} = “5432” é o padrão, mas voce pode ter
+ - *{tipo do banco}* = “postgresql” é o padrão;
+ - *{nome do usuário}* = “localhost” é o padrao, mas voce pode ter modificado; {n° porta} = “5432” é o padrão, mas voce pode ter
    modificado.
-   - *{nome database}* = nome do banco de dados que você acessa
+ - *{nome database}* = nome do banco de dados que você acessa
 
  - ***USER***: coloque o nome do usuário que acessa o seu banco de dados. “localhost” é o padrão, mas você pode ter modificado.
 
  - ***PASSWORD***: coloque a senha usada para acessar o seu banco de dados.
    ** Você não precisa criar uma tabela Tarefa antes pois os métodos a cria assim que são executados.
 ### Executando a página
-1. Clique com o botão direito do arquivo “Tarefas.xhtml” que está localizado no seguinte diretório da pasta.
+ - Clique com o botão direito do arquivo “Tarefas.xhtml” que está localizado no seguinte diretório da pasta.
 ![enter image description here](https://github.com/Migu3l-55/images/blob/ab0fc2942045f9f12dc3c7850a17a16f15363b29/Lista_de_Tarefas/9.Tarefasxhtml.png)
-2. Selecione a opção “Run as” no painel que aparecer e depois clique em “1 Run on Server”.
-3. Selecione “Tomcat v9.0 Server at localhost” e então em “Finish”.
-4. O seu console irá exibir linhas que parecem alertas de erro, mas se o seu navegador
+ - Selecione a opção “Run as” no painel que aparecer e depois clique em “1 Run on Server”.
+ - Selecione “Tomcat v9.0 Server at localhost” e então em “Finish”.
+ - O seu console irá exibir linhas que parecem alertas de erro, mas se o seu navegador
 abrir em uma página como a inferior então é um sinal de que a conexão foi estabelecida.
+![enter image description here](https://github.com/Migu3l-55/images/blob/ab0fc2942045f9f12dc3c7850a17a16f15363b29/Lista_de_Tarefas/10.painel.png)
+## Usando o sistema
+o painel principal para a adição de tarefas possui campos de input (entrada de dado) para
+que o usuário registre a sua tarefa.
+![enter image description here](https://github.com/Migu3l-55/images/blob/ab0fc2942045f9f12dc3c7850a17a16f15363b29/Lista_de_Tarefas/10.painel.png)
+### Campos de entrada
+
+ - TÍTULO - (obrigatório): define um título para a tarefa. Max 60
+   caracteres;
+
+ - DESCRIÇÃO - (opcional): define uma descrição curta sobre que deve ser
+   feito. Máx. 100 caracteres;
+
+ - RESPONSÁVEL - (obrigatório): define uma pessoa responsável por
+   executar a tarefa registrada. Máx. 80 caracteres;
+
+ - PRIORIDADE - define a prioridade da tarefa. pode assumir três valores
+   apenas: Baixa - tarefas menos exigentes; Médias - tarefas comuns;
+
+ - Alta - tarefas mais importantes, difíceis ou que consomem mais tempo.
