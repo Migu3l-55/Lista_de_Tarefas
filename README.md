@@ -27,8 +27,8 @@ Atividade requisitada pelo GUPO ESIG / Lista de tarefas.
 - Javax Annotation api - v1.2 (https://repo1.maven.org/maven2/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.jar)
 
 ## o que foi feito
-**Tarefa.java** Classe de apoio para gerar objetos Tarefa que serão usados pela
+**Tarefa.java** - Classe de apoio para gerar objetos Tarefa que serão usados pela
 classe TarefaDAO para criar uma lista das tarefas do banco de dados \
-**TarefaBEAN.java** Executa e analisa os dados inseridos pelo usuário. Executa
+**TarefaBEAN.java** - Executa e analisa os dados inseridos pelo usuário. Executa
 funções definidas pela classe TarefaDAO e serve de implementação aos arquivos
 Tarefas.xhtml e Listagem.xhtml.
