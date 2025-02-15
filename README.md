@@ -19,7 +19,7 @@ Atividade requisitada pelo GUPO ESIG / Lista de tarefas.
   ## Tecnologias Usadas
 java - v21.0.1 \
 JSF (impl e api) - v2.2.8 (jsf-impl: https://repo1.maven.org/maven2/com/sun/faces/jsf-impl/2.2.8/jsf-impl-2.2.8.jar \ 
- jsf-api: https://repo1.maven.org/maven2/com/sun/faces/jsf-api/2.2.8/jsf-api-2.2.8.jar) \ 
+ jsf-api: https://repo1.maven.org/maven2/com/sun/faces/jsf-api/2.2.8/jsf-api-2.2.8.jar) \
 PostgreSQL - v17.2 \
 Apache Tomcat - v9.0.99 (https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.99/bin/apache-tomcat-9.0.99-windows-x64.zip) \
 Eclipse (IDE) EE Edition - v4.34.0 \
