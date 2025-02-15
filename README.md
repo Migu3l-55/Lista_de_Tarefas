@@ -1,2 +1,3 @@
-# Lista_de_Tarefas
+# Lista_de_Tarefas Usando JSF 2.2 e PostgreSQL
 Atividade requisitada pelo GUPO ESIG / Lista de tarefas.
+
