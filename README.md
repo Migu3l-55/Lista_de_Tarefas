@@ -41,3 +41,7 @@ método *listarTarefasPorResponsavel()* que não é usada no jsf, mas funciona a
 - **Listagem.xhtml** exibe a tabela com todos os registros no banco de dados
 - **Tarefas.xhtml** painel para adicionar nova tarefa.
 ## Guia de SetUp e preparação para o funcionamento
+### Instalando Eclipse EE Edition
+1. Baixe o instalador da IDE Eclipse voltada para o desenvolvimento WEB pelo seguinte
+link (https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2024-12/R/eclipse-inst-jre-win64.exe&mirror_id=1135)
+2. Execute o Instalador e selecione a opção abaixo para instalar a versão EE.
