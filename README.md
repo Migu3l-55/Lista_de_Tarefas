@@ -86,7 +86,7 @@ Modifique cada pedaço das strings substituindo pelos dados pedidos dentro das c
 (lembre-se de remover as chaves também).
  - **URL**:
  - *{tipo do banco}* = “postgresql” é o padrão;
- - *{nome do usuário}* = “localhost” é o padrao, mas voce pode ter modificado; {n° porta} = “5432” é o padrão, mas voce pode ter
+ - *{nome do usuário}* = “postgres” é o padrao, mas voce pode ter modificado; {n° porta} = “5432” é o padrão, mas voce pode ter
    modificado.
  - *{nome database}* = nome do banco de dados que você acessa
 
