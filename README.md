@@ -12,9 +12,9 @@ Atividade requisitada pelo GUPO ESIG / Lista de tarefas.
   - _Abrindo os arquivos no Eclipse_
   - _Adicionando o acesso ao banco de dados_
   - _Executando a página_ 
-- **Usando o sistema** \
-    _Campos de entrada_ \
-    _Exibir tabela de tarefas_
+- **Usando o sistema**
+  - _Campos de entrada_
+  - _Exibir tabela de tarefas_
 
   ## Tecnologias Usadas
 java - v21.0.1 \
