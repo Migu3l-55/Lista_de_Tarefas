@@ -88,8 +88,10 @@ conexão PostgreSQL. Selecione o “TarefasDAO”. \
  - Nas linhas 11,12 e 13 encontram-se as variáveis URL, USER e PASSWORD
 respectivamente. \
 ![enter image description here](https://github.com/Migu3l-55/images/blob/ab0fc2942045f9f12dc3c7850a17a16f15363b29/Lista_de_Tarefas/8.mudarvariaveis.png) 
+
 >[!NOTE]
 >A area que diz "nome do usuário do banco" na variavel URL, na verdade deveria dizer "host"!
+
 Modifique cada pedaço das strings substituindo pelos dados pedidos dentro das chaves
 (lembre-se de remover as chaves também).
  - **URL**:
