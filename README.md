@@ -92,11 +92,12 @@ Modifique cada pedaço das strings substituindo pelos dados pedidos dentro das c
 (lembre-se de remover as chaves também).
  - **URL**:
  - *{tipo do banco}* = “postgresql” é o padrão;
- - *{nome do usuário}* = “postgres” é o padrao, mas voce pode ter modificado; {n° porta} = “5432” é o padrão, mas voce pode ter
+ - *{host}* = “localhost” é o padrao, mas voce pode ter modificado;
+ - *{n° porta}* = “5432” é o padrão, mas voce pode ter
    modificado.
  - *{nome database}* = nome do banco de dados que você acessa
 
- - ***USER***: coloque o nome do usuário que acessa o seu banco de dados. “localhost” é o padrão, mas você pode ter modificado.
+ - ***USER***: coloque o nome do usuário que acessa o seu banco de dados. “postgres” é o padrão, mas você pode ter modificado.
 
  - ***PASSWORD***: coloque a senha usada para acessar o seu banco de dados.
    ** Você não precisa criar uma tabela Tarefa antes pois os métodos a cria assim que são executados.
