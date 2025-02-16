@@ -2,6 +2,11 @@
 # Lista_de_Tarefas usando JSF 2.2 e PostgreSQL
 Atividade requisitada pelo GUPO ESIG / Lista de tarefas.
 
+>[!WARNING]
+>Se a sua página tiver com um simbolo vermelho indicando erro, clique com o botão direito sobre ela e selecione a aba "Properties" ou propriedades da pasta. \
+\
+Após o painel de propriedades abrir, selecione no menu esquerdo a opção "Java Facets" e troque a versão do tipo "Java" do painel de seleção para 21 (essa é a versão java que o projeto foi desenvolvido).
+
 ## Sumário
 - **Tecnologias usadas**
 - **O que foi feito**
